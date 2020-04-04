@@ -1,0 +1,40 @@
+body {
+    box-sizing: border-box;
+    text-align: center;
+}
+
+#app {
+    height: 300px;
+    width: 80%;
+    margin: auto;
+}
+
+.test {
+    padding: 30px;
+    font-size: 50px;
+}
+
+.ex-obese {
+    color: rgb(255, 0, 55);
+}
+
+.obese {
+    color: darkorange;
+}
+
+.over-weight {
+    color: yellow;
+}
+
+.normall {
+    color: rgb(106, 218, 106);
+}
+
+.onder-weight {
+    color: rgb(129, 203, 228);
+}
+
+.frame {
+    margin: 20px auto;
+}
+
